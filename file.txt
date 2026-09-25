@@ -1,0 +1,6 @@
+hi this is my first file to add git hub account 
+new content of file is git commands 
+git status
+git add.
+git commit -m "comment of the file"
+git push command to push commited files to git hub account
